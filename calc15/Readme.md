@@ -13,5 +13,7 @@ Created completely in java using java's awt package.
 
 ## project screenshots
 
-![alt ProjectScreenshots](https://raw.githubusercontent.com/dsc712/calculator/master/calc15/Screenshot (27).png)
-![alt ProjectScreenshots](https://raw.githubusercontent.com/dsc712/calculator/master/calc15/Screenshot (27).png)
+![alt ProjectScreenshots](https://raw.githubusercontent.com/dsc712/calculator/master/calc15/img1.png)
+
+
+![alt ProjectScreenshots](https://raw.githubusercontent.com/dsc712/calculator/master/calc15/img2.png)
